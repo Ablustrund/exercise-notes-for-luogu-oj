@@ -85,6 +85,7 @@
         "cwctype": "cpp",
         "fstream": "cpp",
         "optional": "cpp",
-        "sstream": "cpp"
+        "sstream": "cpp",
+        "stack": "cpp"
     } // 效果比cpptools要好
 }

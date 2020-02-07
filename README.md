@@ -1,3 +1,3 @@
-# luoguOJ
-洛谷OJ
-洛谷OJ
+### record some exercise notes from luoguOJ
+
+luoguOJ platform:   https://www.luogu.com.cn/
